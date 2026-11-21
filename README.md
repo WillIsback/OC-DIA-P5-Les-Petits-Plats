@@ -34,8 +34,8 @@ Ce projet est le **Projet 5 (P5 - Sites Complexes avec React)** de la formation 
 
 1. **Cloner le projet**
    ```bash
-   git clone https://github.com/WillIsback/les_petits_plats.git
-   cd les_petits_plats
+   git clone https://github.com/WillIsback/OC-DIA-P5-Les-petits-plats.git
+   cd OC-DIA-P5-Les-petits-plats
    ```
 
 2. **Installer les dépendances**
@@ -118,8 +118,8 @@ les_petits_plats/
 
 ## Liens utiles
 
-- **Dépôt GitHub complet** : https://github.com/WillIsback/les_petits_plats
-- **Dossier public (images)** : https://github.com/WillIsback/les_petits_plats/tree/main/public
+- **Dépôt GitHub complet** : https://github.com/WillIsback/OC-DIA-P5-Les-petits-plats
+- **Dossier public (images)** : https://github.com/WillIsback/OC-DIA-P5-Les-petits-plats/tree/main/public
 - [Documentation Next.js](https://nextjs.org/docs)
 - [Documentation React](https://react.dev)
 
